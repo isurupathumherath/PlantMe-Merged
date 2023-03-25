@@ -1,3 +1,6 @@
-[submodule "Backend"]
-    path = Backend
-    url = https://github.com/miyurugunarathna/plantme.git
+[submodule "plantme"]
+	path = plantme
+	url = https://github.com/miyurugunarathna/plantme.git
+[submodule "Plantme-frontend"]
+	path = Plantme-frontend
+	url = https://github.com/dilafar/Plantme-frontend.git
